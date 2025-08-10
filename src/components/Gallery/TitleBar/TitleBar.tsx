@@ -25,7 +25,7 @@ const TitleBar: React.FC<TitleBarProps> = ({ title, onClose }) => {
     }}>
       {/* 아이콘 */}
       <img
-      src='/public/favicon.ico'
+      src='/public/favicon.png'
       alt='Gallery Icon'
       style={
         {
