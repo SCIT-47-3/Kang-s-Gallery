@@ -9,11 +9,15 @@ const App: React.FC = () => {
     <div className="App">
       <Gallery 
         images={[
-          '/images/photo1.png',
-          '/images/photo2.png',
-          '/images/photo3.png',
-          '/images/photo4.png',
-          '/images/photo5.png'
+          '/images/photo1.jpeg',
+          '/images/photo2.jpeg',
+          '/images/photo3.jpeg',
+          '/images/photo4.jpeg',
+          '/images/photo5.jpeg',
+          '/images/photo6.jpeg',
+          '/images/photo7.jpeg',
+          '/images/photo8.jpeg',
+          '/images/photo9.gif',
         ]}
       />
     </div>
